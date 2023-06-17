@@ -1,4 +1,4 @@
-# Dokumentacja Testów - Prosty stystem walki
+# Dokumentacja Testów - Prosty system walki
 
 > Projektu z zajęć "Wzorce Projektowe", Mateusz Jankowski 13832
 
