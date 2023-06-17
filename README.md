@@ -4,10 +4,10 @@
 
 
 ## Spis Treści
-* [Struktura aplikacji]
-* [Scenariusze testów]
-* [Wykorzystane narzędzia i biblioteki]
-* [Ewentualne problemy i ich rozwiązania]
+* [Struktura aplikacji](#struktura-aplikacji)
+* [Scenariusze testów](#scenariusze-testów)
+* [Wykorzystane narzędzia i biblioteki](#wykorzystane-narzędzia-i-biblioteki)
+* [Ewentualne problemy i ich rozwiązania](#Ewentualne-problemy-i-ich-rozwiązania)
 
 
 ## A. Struktura aplikacji
