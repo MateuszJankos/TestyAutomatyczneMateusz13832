@@ -32,4 +32,4 @@ W aplikacji wykorzystano następujące narzędzia i biblioteki:
 
 ## D. Ewentualne problemy i ich rozwiązania
 
-Aktualnie brak w programie błędów. Jest to prosty kod wykonujący się w 100% poprawnie. Jedyne problemy mogą ewentualnie występować jeśli chodzi o różne kompilatory. W niektórych wersjach program może po prostu nie działać.
+Aktualnie brak w programie błędów. Jest to prosty kod wykonujący się poprawnie. Jedyne problemy mogą ewentualnie występować jeśli chodzi o różne kompilatory. W niektórych wersjach program może po prostu nie działać.
