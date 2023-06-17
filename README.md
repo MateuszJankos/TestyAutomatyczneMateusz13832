@@ -11,7 +11,7 @@
 
 
 ## A. Struktura aplikacji
-Aplikaca słada się z następujących elementów:
+Aplikacja składa się z następujących elementów:
 - Klasa Bohater - reprezentuje bohatera w grze. Posiada atrybuty: name (nazwa bohatera), zdrowie (aktualne zdrowie bohatera) i moc (siła ataku bohatera). Zawiera metody Atak() (dokonuje ataku na przeciwnika) oraz is_alive() (sprawdza, czy bohater jest żywy).
 - Funkcje wybierz_bohatera() i wybierz_przeciwnika() - służą do wyboru bohatera i przeciwnika przez gracza. Wyświetlają dostępne opcje i zwracają odpowiednie instancje klasy Bohater. W przypadku podania złej cyfry, wybrany zostaje specjalny bohater, który nie znajduję się na liście opcji.
 - Funkcja walka(gracz, przeciwnik) - symuluje pojedynek między graczem a przeciwnikiem. Wyświetla informacje o rozpoczęciu walki oraz wykonuje kolejne ataki, aż jeden z bohaterów zostanie pokonany. Na koniec wyświetla informację o zwycięzcy i zwraca jego nazwę.
@@ -32,4 +32,4 @@ W aplikacji wykorzystano następujące narzędzia i biblioteki:
 
 ## D. Ewentualne problemy i ich rozwiązania
 
-Aktualnie brak w programie jakich kolwiek błędów. Jest to prosty kod wykonujący się w 100% poprawnie. Jedyne problemy mogą ewentualnie występować jeśli chodzi o różne kompilatory. W niektórych wersjach program może po prostu nie działać.
+Aktualnie brak w programie błędów. Jest to prosty kod wykonujący się w 100% poprawnie. Jedyne problemy mogą ewentualnie występować jeśli chodzi o różne kompilatory. W niektórych wersjach program może po prostu nie działać.
